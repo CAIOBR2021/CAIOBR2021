@@ -2,10 +2,12 @@
 
 <br>
 
-### Seja bem-vindo ao meu perfil GitHub 👋
+> ### Seja bem-vindo ao meu perfil GitHub 👋
  <br>
+ 
  - Sou graduado em Engenharia Mecânica pela Universidade de Vila Velha (UVV);<br>
  - Pós-graduando em Engenharia de Software na Pontifícia Universidade Católica de Minas Gerais (PUC MINAS);
+ 
  
  <br>
  <br>
@@ -17,7 +19,7 @@
  <br>
  <br>
  
-  ## 💻 Tecnologias e Ferramentas 
+  > ## 💻 Tecnologias e Ferramentas 
  
   <div style="display: inline_block"><br>
   <img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -48,7 +50,7 @@
  
   <br>
  
-  ## 📫 Contatos
+  > ## 📫 Contatos
   
   <div style="display: inline_block"><br>
   <a href="https://www.linkedin.com/in/caio-vinicius-de-carvalho-bezerra-643695158" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
