@@ -4,6 +4,7 @@
 
 > ### Seja bem-vindo ao meu perfil GitHub 👋
  <br>
+ <br>
  
  - Sou graduado em Engenharia Mecânica pela Universidade de Vila Velha (UVV);<br>
  - Pós-graduando em Engenharia de Software na Pontifícia Universidade Católica de Minas Gerais (PUC MINAS);
