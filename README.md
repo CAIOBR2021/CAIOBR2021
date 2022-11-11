@@ -61,3 +61,5 @@
   </div>
 
   ## 
+  ![snake gif](https://github.com/CAIOBR2021/CAIOBR2021/blob/output/github-contribution-grid-snake.svg)
+  
