@@ -12,11 +12,9 @@
  
  <br>
  
- - Sou graduado em Engenharia Mecânica pela Universidade de Vila Velha (UVV);<br> 
- - Pós-graduando em Engenharia de Software na Pontifícia Universidade Católica de Minas Gerais (PUC MINAS); 
+ - Sou graduado em Engenharia Mecânica pela Universidade de Vila Velha (UVV) ⚙👨‍🔧;<br> 
+ - Pós-graduando em Engenharia de Software na Pontifícia Universidade Católica de Minas Gerais (PUC MINAS) 👨‍ 👨‍💻 💻; 
  
- 
- <br>
  <br>
  
  <div align="center">
