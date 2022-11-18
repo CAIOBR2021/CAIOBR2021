@@ -12,8 +12,8 @@
  
  <br>
  
- - Sou graduado em Engenharia Mecânica pela Universidade de Vila Velha (UVV);<br>
- - Pós-graduando em Engenharia de Software na Pontifícia Universidade Católica de Minas Gerais (PUC MINAS);
+ - Sou graduado em Engenharia Mecânica pela Universidade de Vila Velha (UVV);<br> 
+ - Pós-graduando em Engenharia de Software na Pontifícia Universidade Católica de Minas Gerais (PUC MINAS); 
  
  
  <br>
@@ -21,8 +21,8 @@
  
  <div align="center">
   <a href="https://github.com/CAIOBR2021"><br>
-   <img height="180em" width="47%" src="https://github-readme-stats.vercel.app/api?username=CAIOBR2021&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAIOBR2021&layout=compact&langs_count=7&theme=dark"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CAIOBR2021&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAIOBR2021&layout=compact&langs_count=7&theme=dark"/>
  </div>
  <br>
  <br>
