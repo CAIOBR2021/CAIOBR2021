@@ -1,4 +1,4 @@
-# Olá, me chamo Caio Vinícius! 👨‍💻
+# 👨‍💻 Olá, me chamo Caio Vinícius! 
 
 <br>
 
