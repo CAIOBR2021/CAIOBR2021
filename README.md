@@ -1,5 +1,5 @@
-# 👨‍💻 Olá, me chamo Caio Vinícius! 
 
+<img src="https://img.shields.io/static/v1?label=Overview&message=CAIO VINÍCIUS&color=f8efd4&style=for-the-badge&logo=GitHub">
 <br>
 
 > ### Seja bem-vindo ao meu perfil GitHub 👋
@@ -12,8 +12,8 @@
  
  <br>
  
- - Sou graduado em Engenharia Mecânica pela Universidade de Vila Velha (UVV);<br> 
- - Pós-graduando em Engenharia de Software na Pontifícia Universidade Católica de Minas Gerais (PUC MINAS); 
+ - Sou graduado em Engenharia Mecânica pela **Universidade de Vila Velha (UVV)**;<br> 
+ - Pós-graduando em Engenharia de Software na **Pontifícia Universidade Católica de Minas Gerais (PUC MINAS)**; 
  
  <br>
  
@@ -25,7 +25,7 @@
  <br>
  <br>
  
-  > ## 💻 Tecnologias e Ferramentas 
+   > ## 💻 Tecnologias e Ferramentas 
  
   <div style="display: inline_block"><br>
   <img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -38,6 +38,8 @@
   <img align="center" alt="Caio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Caio-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   </div>
+  
+  
  
  <br>
  
