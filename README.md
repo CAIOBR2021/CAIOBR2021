@@ -14,7 +14,7 @@
  
  - Bacharel em Engenharia Mecânica pela **Universidade de Vila Velha (UVV)**;<br> 
  - Especialista em Engenharia de Software na **Pontifícia Universidade Católica de Minas Gerais (PUC MINAS)**;
- - Estudante de programação na Alura
+ - Estudante de programação na **Alura**
  
  <br>
  
@@ -44,7 +44,7 @@
  
  <br>
  
- ### 🎓  Estou aprendendo:
+ ### 🎓  Aprendendo:
  
  <div style="display: inline_block"><br>
   <img align="center" alt="Caio-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
