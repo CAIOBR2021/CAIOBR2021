@@ -12,9 +12,9 @@
  
  <br>
  
- - Sou graduado em Engenharia Mecânica pela **Universidade de Vila Velha (UVV)**;<br> 
+ - Bacharel em Engenharia Mecânica pela **Universidade de Vila Velha (UVV)**;<br> 
  - Especialista em Engenharia de Software na **Pontifícia Universidade Católica de Minas Gerais (PUC MINAS)**;
- - Atualmente estudando programação na Alura
+ - Estudante de programação na Alura
  
  <br>
  
