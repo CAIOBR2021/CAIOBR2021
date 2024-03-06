@@ -5,13 +5,7 @@
 > ### Seja bem-vindo ao meu perfil GitHub 👋
  <br>
  <br>
- 
- <div align="center">
-    <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
- </div>
- 
- <br>
- 
+
  - Bacharel em Engenharia Mecânica pela **Universidade de Vila Velha (UVV)**;<br> 
  - Especialista em Engenharia de Software na **Pontifícia Universidade Católica de Minas Gerais (PUC MINAS)**;
  - Estudante de programação na **Alura**
