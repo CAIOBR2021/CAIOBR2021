@@ -1,6 +1,4 @@
 
-![Banner do perfil](https://github.com/CAIOBR2021/CAIOBR2021/blob/main/image.png)
-
 # 👨‍💻 Caio Vinícius | Engenheiro de Software e Desenvolvedor Fullstack
 
 Bem-vindo ao meu perfil no GitHub! 🚀 Aqui você encontrará informações sobre minhas habilidades, projetos, e as tecnologias com as quais trabalho.
@@ -38,10 +36,15 @@ Bem-vindo ao meu perfil no GitHub! 🚀 Aqui você encontrará informações sob
 
  ## 🗂️ Projetos em Destaque
 
-### [📂 Projeto 1: Meu Portfolio](#)
+### [📂 Projeto 1: Nucleus](https://github.com/CAIOBR2021/Project-Nucleus-Front-end-)
 
-### [📂 Projeto 2: API de Gerenciamento](#)
+- Desenvolvido com **React**, **TypeScript**
+- O código está estruturado em componentes reutilizáveis, o que facilita a manutenção e a escalabilidade. Cada página possui seus próprios arquivos de estilos, mantendo o projeto organizado.
+  
+### [📂 Projeto 2: Serenatto](https://github.com/CAIOBR2021/Projeto-Serenatto-Alura)
 
+- Desenvolvido com **Bootstrap**, e design responsivo.
+  
 ---
 
 ## 📊 Estatísticas do GitHub
