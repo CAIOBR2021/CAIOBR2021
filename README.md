@@ -1,6 +1,5 @@
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=CAIO VINÍCIUS&color=f8efd4&style=for-the-badge&logo=GitHub">
-<br>
+![Banner do perfil](https://github.com/CAIOBR2021/CAIOBR2021/blob/main/image.png)
 
 # 👨‍💻 Caio Vinícius | Engenheiro de Software e Desenvolvedor Fullstack
 
