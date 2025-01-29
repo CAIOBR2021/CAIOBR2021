@@ -21,7 +21,7 @@ Bem-vindo ao meu perfil no GitHub! 🚀 Aqui você encontrará informações sob
 | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)  | ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 | ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)   | ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
 | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs) | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-
+| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
  ---
  
  ## 📘 Estou Aprendendo
@@ -47,7 +47,7 @@ Bem-vindo ao meu perfil no GitHub! 🚀 Aqui você encontrará informações sob
   
 ---
 
-## 📊 Estatísticas do GitHub
+## 📈 Estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioBR2021&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estatísticas do GitHub">
@@ -56,17 +56,20 @@ Bem-vindo ao meu perfil no GitHub! 🚀 Aqui você encontrará informações sob
 </div>
 
   ---
-  
- ## 📫 Contato
-  <div style="display: inline_block"><br>
+
+ ## 📬 Vamos Conectar!
+
+   <div style="display: inline_block"><br>
   <a href="https://www.linkedin.com/in/caio-vinicius-de-carvalho-bezerra-643695158" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="mailto:caiobezerra994@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href = "mailto:caio.carvalho134@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   </div>
 
   <br>
- 
+
+- 🔍 **Procurando por:** Oportunidades como Desenvolvedor Full-Stack/Júnior
+- 📄 **[Baixar Currículo](link_para_seu_curriculo.pdf)**
+- 🚀 **Disponível para:** Freelance e colaborações em projetos open-source
   
- 
 
   
