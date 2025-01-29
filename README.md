@@ -8,7 +8,8 @@ Bem-vindo ao meu perfil no GitHub! 🚀 Aqui você encontrará informações sob
 ## 🌟 Sobre mim
 - 🎓 **Formação:**  
   - Bacharel em Engenharia Mecânica pela **Universidade de Vila Velha (UVV)**.  
-  - Especialista em Engenharia de Software pela **PUC Minas**.  
+  - Especialista em Engenharia de Software pela **PUC Minas**.
+  - Cursando Técnico em Desenvolvimento de Sistemas pelo **SENAC**. 
 
 - 💼 **Áreas de interesse:** Desenvolvimento Web, Software Fullstack, e Front-end Developer.
   
